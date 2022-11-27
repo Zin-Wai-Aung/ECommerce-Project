@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "animate.css/animate.css";
+
+$font-family-sans-serif:'Montserrat', sans-serif;
+
+
+@import "bootstrap/scss/bootstrap";
+
+.item-image{
+  height: 150px;
+  max-width: 100%;
+}
+
+.item-card{
+  height: 380px;
+}
